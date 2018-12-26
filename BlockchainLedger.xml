@@ -1,0 +1,272 @@
+<BlockLedger>
+<blockRecord>
+    <ABlockID>FirstBlock</ABlockID>
+    <ACreatingProcess>FirstBlock</ACreatingProcess>
+    <ASHA256String>FirstBlock</ASHA256String>
+    <ASignedSHA256>FirstBlock</ASignedSHA256>
+    <AVerificationProcessID>FirstBlock</AVerificationProcessID>
+    <blockNum>1</blockNum>
+    <dateCreated>FirstBlock</dateCreated>
+    <FDOB>FirstBlock</FDOB>
+    <FFname>FirstBlock</FFname>
+    <FLname>FirstBlock</FLname>
+    <FSSNum>FirstBlock</FSSNum>
+    <GDiag>FirstBlock</GDiag>
+    <GRx>FirstBlock</GRx>
+    <GTreat>FirstBlock</GTreat>
+    <previousHash>FirstBlock</previousHash>
+    <signedBlockID>FirstBlock</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>cbe16af6-d701-499d-9500-cf3fbce69be0</ABlockID>
+    <ACreatingProcess>0</ACreatingProcess>
+    <ASHA256String>28a6365392a362f4875e926f7974e805b8c9fb66c8e0ebdeba20d085b6e75ee6</ASHA256String>
+    <ASignedSHA256>fWOZI7q9dnfqxXFBBLgBBquVQgFXb+gtfRExiYraFrAR2HoB50fz0T9qVDdMLQeX6nYXslOfaaYXy1/UP6MuyBQQzEfr145qj1eT6rHVeyTFlyHLUgmMZjEDG254zk55B/KUwjwjqhoBg7FegGpN8xFTabGIur736ZO5XVtHGDk=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>1</blockNum>
+    <dateCreated> 2018-10-23.22:58:53.0
+</dateCreated>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>John</FFname>
+    <FLname>Smith</FLname>
+    <FSSNum>123-45-6789</FSSNum>
+    <GDiag>Chickenpox</GDiag>
+    <GRx>aspirin</GRx>
+    <GTreat>BedRest</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>RS5DQMXK</seed>
+    <signedBlockID>JRcHquKA6NThjP9Z7eXUaGSlkfCEE/QtzGRicb+ZTCo7QRO+eIBboITcXdGE3FjHdZJhMCvdXGHJc7NMFS3G63JnVpLETTm742n1jTkiCgkWWbY66TgxMCONTg9QxesZhxUqMaiKyizRxr5YnaFCuuSvM48nYXq3sKiNszfniq0=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>b94317d8-faa2-46ae-9bf9-2b6bdea3ba36</ABlockID>
+    <ACreatingProcess>2</ACreatingProcess>
+    <ASHA256String>0cfb72893e42599d59753a84c6af1f026263bacacf24ec7e91b206b4516b1469</ASHA256String>
+    <ASignedSHA256>oaLWuluPT3mDB2gcQe/p0UEeH6ctDRr/wdlb04gx4jB61Uz5kqlAh12CbGKUfmEmfCkmLtXKDyfDXfWgm1I7FIXTDERKxpfRLL+dFZmb9G0gy5I+CGKVzWLmFTvgs2LWf81zOA/mRImgOzGxsyVBs1dMEp4Y+ffMSVETLq44wLM=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>2</blockNum>
+    <dateCreated> 2018-10-23.22:58:53.2
+</dateCreated>
+    <FDOB>1880.06.27</FDOB>
+    <FFname>Helen</FFname>
+    <FLname>Keller</FLname>
+    <FSSNum>666-45-6789</FSSNum>
+    <GDiag>Arthritis</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>WarmCloths</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>RTEPJBKX</seed>
+    <signedBlockID>XIhPxmyDiKGfLyx+6ll8TfSYchQqmMV2FUE3MyZUMhiO3t0kams9LjzXFAKMLyuDFxjm1MVW2IX/ZAGtjZOzgqUSMxeF2j0HWQsUxJswNT9gYry3bEvapUqT9LLVYUQL8rJ3Rvkv/5qvb9MfsGmzeEIijJldDMhdle8w88Jzmhc=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>c3f9e230-fbde-4f74-b560-984d5571abe6</ABlockID>
+    <ACreatingProcess>0</ACreatingProcess>
+    <ASHA256String>370821b40bfde334ca289771855f99412b9d2cc9ca1273de870ee3c1ed65a4ba</ASHA256String>
+    <ASignedSHA256>VLXEjsT3+F+yvCLp3/9RypVwpNRc0asEBN0ElwFLLTVp57OQV9l8UfurIpsyS/xaYrkKXst1CusBLgr0gI7Vx+k8Z6g8bDpV6Yq1GYevw0DcxBCDx0PmjVYRYW54gfQ0IcYIkuXaog0/KKm5SDhTTxgT45RBjj4rOdCTdIvC59k=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>3</blockNum>
+    <dateCreated> 2018-10-23.22:58:54.0
+</dateCreated>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>Blow</FLname>
+    <FSSNum>123-45-6888</FSSNum>
+    <GDiag>Smallpox</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>BedRest</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>27V3G3DM</seed>
+    <signedBlockID>AmRRDj8ztKmhql445Aep5LNQxsu/R7d+YCHOrJafdvKJ1iygYg7QnXABNlUZ47weDWADSKLfRjFGNmesOQ5hwGxqhRnQ47wHGHNgxESSJJncfYVC03o+Azx3E6Hh7YdofOReiBhg7ufMSBkkeCO8O/jk6bCiGmTws1ICkUKCSGg=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>220b8d9a-266d-4bf5-b2c8-08632f7d8cd3</ABlockID>
+    <ACreatingProcess>1</ACreatingProcess>
+    <ASHA256String>325dcdcf98c5f81fb026d1f5709a0e4683d6e429cf713cd64297b7cab93dc72a</ASHA256String>
+    <ASignedSHA256>eXMg5Nxotgd5657RNpca6MgPObcpM8FbtVyJ+YBMGNhgVnPvIAOWIkNe7KCt77hhRYu3D5K3aZ16EFilEcblaxcf2wFcn1kErqGF3KkfWfP0MUQY2/LjrILAhZU89rR5kn8bGhtgn88/Q7B2Rb6wGYSKWIfNDs+TiSTAvPXcNWg=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>4</blockNum>
+    <dateCreated> 2018-10-23.22:58:54.1
+</dateCreated>
+    <FDOB>1992.01.31</FDOB>
+    <FFname>Rita</FFname>
+    <FLname>Vita</FLname>
+    <FSSNum>999-456-789</FSSNum>
+    <GDiag>ObessivePersonality</GDiag>
+    <GRx>Ibuprofen</GRx>
+    <GTreat>TryToRelax</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>HYHJ40EW</seed>
+    <signedBlockID>IlZVaBfiVZEXbPx4QEQ218Zl60rYaO4gWhzjFwsBA/1sZb/MvaXMBof1I1AwB3osiGrGWNPaQQTkmQCJ3CS7tpYWsAabNUXGyAqsZ3+nvYdv6F+z3DyysRVyFT+pB4Sb5JkS5zQbhg6YI9EZWct8FNij4i8B6g8QCg60acALpvI=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>559225e5-8d80-4baf-9c2d-7241695d081e</ABlockID>
+    <ACreatingProcess>2</ACreatingProcess>
+    <ASHA256String>47d0068fe02a8a86c27e163415bb6862001a9d8344b55cde03f9b72664414616</ASHA256String>
+    <ASignedSHA256>OKrVW6K2tNws2Ydlo2VZ3DlZIFtTEQuaLSbxO5iSn7JBISu/CY1Ffenhfsi67SHhiO6UxbPpLZyRqmaMB/AdH7zuccoXttdCl67gv4oKrQrWEGCgu4Xc6oby5rNpaV14BgN4sKVavVtmfJ5KYIP1Ehbui766qsWUmlI2PSCJkfM=</ASignedSHA256>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <blockNum>5</blockNum>
+    <dateCreated> 2018-10-23.22:58:54.2
+</dateCreated>
+    <FDOB>1809.02.12</FDOB>
+    <FFname>Abraham</FFname>
+    <FLname>Lincoln</FLname>
+    <FSSNum>444-45-6888</FSSNum>
+    <GDiag>GreviousWound</GDiag>
+    <GRx>Whiskey</GRx>
+    <GTreat>Surgery</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>YR2X53LI</seed>
+    <signedBlockID>UexpQWYxUqtI24UI7ZK3QFSN3k3hbG2hEUnip/uhGTdro8MRQ1AswNPPvUr4zARIEslAGqRcYa9QU/x5yXDywW/0DW7P5uoeZrBaQ7egSmSTxpVvvczPCKhRJUTAzEZxajBk067BQT3/c9XiI2QVtfj8I08JGSn452jwOuA+LAA=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>87adf578-c365-4285-bce9-3933139ff3db</ABlockID>
+    <ACreatingProcess>0</ACreatingProcess>
+    <ASHA256String>120d06088561c608e9e80bbfb5c42b1fa9b5ae9a9ae397e1d04255ffc3d014f7</ASHA256String>
+    <ASignedSHA256>fBIm9WYVuquRoLmbhaF/8CzJ8J8UxcjrUK5NQ/3NkQGlNLRJyJm8BZdshlaS+hsKk84Q2muRRFUyFSM61GW7TaNakRUep/+RLl8f3KzW4X5NmTwlTP5OLCcss0cNyMW310Quyph8JMDId39PuPI4OvRcT0wAuTdbDDc9K3l4uec=</ASignedSHA256>
+    <AVerificationProcessID>1</AVerificationProcessID>
+    <blockNum>6</blockNum>
+    <dateCreated> 2018-10-23.22:58:55.0
+</dateCreated>
+    <FDOB>1996.03.07</FDOB>
+    <FFname>Julie</FFname>
+    <FLname>Wilson</FLname>
+    <FSSNum>123-45-6999</FSSNum>
+    <GDiag>Insomnia</GDiag>
+    <GRx>HotPeppers</GRx>
+    <GTreat>Exercise</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>KXSZG7HY</seed>
+    <signedBlockID>Aebk17QF08ZhvwtcuFgSxTvxF+QW2DUTm3H3kWsfg4hUs/4z4Kri0T5szWgwQ2/UfF7kwDufxWN6sFwvjfcxYrkck7wlpyqMDq5UTssCYU8VSu0Iq30gYlBwd5iHgOd5Q1+zawFEuqmaeC4d8hcdLStG9p2DA/FSsJt2oEOBGO0=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>24ff0fa3-732d-41ce-97bd-2134d21ece7d</ABlockID>
+    <ACreatingProcess>1</ACreatingProcess>
+    <ASHA256String>4e11a816b116b47e23344b59a9a0a86ce964b58373cde1eeef2cd2dea4915e7b</ASHA256String>
+    <ASignedSHA256>MXrOhf3qIgLbSSYXZtzLo859EuYYcNhOrc9sxDkZ9nBLO98nsKw9ql3kBLLxoiUCRs1/BubVyMYns62oc13bxbrtaQJ1Bo9x8Ftiv9TqqGI5d4UYURWeiQ0bpWszRG0VHCc1Q+q3ekgPFWe90wjVSUUp6JUfIiln+vRqXHL9Xtg=</ASignedSHA256>
+    <AVerificationProcessID>1</AVerificationProcessID>
+    <blockNum>7</blockNum>
+    <dateCreated> 2018-10-23.22:58:55.1
+</dateCreated>
+    <FDOB>1996.03.22</FDOB>
+    <FFname>Wei</FFname>
+    <FLname>Xu</FLname>
+    <FSSNum>123-456-333</FSSNum>
+    <GDiag>Shingles</GDiag>
+    <GRx>Zovirax</GRx>
+    <GTreat>WaitForRelief</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>TIDF661S</seed>
+    <signedBlockID>VQ8JOVzjpDyhELke3POCZUNNSKsNTmM/LPCH/nTq0ZivsejNtNzWTqysY0U4cQVifn2Gx89d+YKtO4wCwnBHeofu4jOo3eyu/Iu9CJAdFam3cOWXpfApa3VHNFJfJDie6KyTtkWRgf3IZmEIrSzLRgImeoQqPhdBZqfIo7j0D5U=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>0c561e9e-79b9-4de5-b300-79214fcdcc7f</ABlockID>
+    <ACreatingProcess>2</ACreatingProcess>
+    <ASHA256String>44d5a11aa46cb9ded1f1221da52bb436b7db3859d8800b00cc13b3fbec93e008</ASHA256String>
+    <ASignedSHA256>bbes3UJGX2uTypeW5PjKU4wu0n05PMc26e1FH30NQrCO2bC8MUTmox1E+Pakreg0KerikoBJ/uKBdtsjzwfmKAczbW6u+zQSH6xiDPR6Dgs09KKcBojIpIkRVU77cNbXFMdl1EZH6Qutp2CjzH2Ob/woPLn3SMFdOtV+60ZASGU=</ASignedSHA256>
+    <AVerificationProcessID>1</AVerificationProcessID>
+    <blockNum>8</blockNum>
+    <dateCreated> 2018-10-23.22:58:55.2
+</dateCreated>
+    <FDOB>1917.05.29</FDOB>
+    <FFname>John</FFname>
+    <FLname>Kennedy</FLname>
+    <FSSNum>333-45-6999</FSSNum>
+    <GDiag>AddisonsDisease</GDiag>
+    <GRx>Steroids</GRx>
+    <GTreat>DrugTherapy</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>38PPARZJ</seed>
+    <signedBlockID>APIzBPsRfiEbdI3gEJ0DelYQ5+67Bn7qWyCAA9uAWrgVTjDA+PgjlBjnC3r9Q44oRkr7P3FPRnMmrLU/P59nCQXEslNSU+BKCuvdBLjr2e7jIjtfKxs+yk8BhO8bjDxjYLisLiXcrs459h06V9Any+/BcBMd0eLPD4Zq7xQ0P90=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>299a566e-37fe-4564-8d38-8f11325fa5e9</ABlockID>
+    <ACreatingProcess>0</ACreatingProcess>
+    <ASHA256String>33c2577758e6f999d189d6b04b2ce23c3e9e4d391fa2f9263c99df26042cbcc1</ASHA256String>
+    <ASignedSHA256>SASWD4ppM5s2RDF0p1N7tZjqkyIYkZJYyR+N2IDsSo15E/ibnxcWFNN7rXeTMMPY+U5Or7ypScPgGbG+0Zoey6z2b5/Ky1cqtkTt7ja6knlX38ts9ZjVVpHHFTmssQrnipfjW3ARKQqrj98O1AvFR6OErQ0JarvID0g2lTrjp/M=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>9</blockNum>
+    <dateCreated> 2018-10-23.22:58:56.0
+</dateCreated>
+    <FDOB>1942.07.07</FDOB>
+    <FFname>Wayne</FFname>
+    <FLname>Blaine</FLname>
+    <FSSNum>123-45-6777</FSSNum>
+    <GDiag>Measles</GDiag>
+    <GRx>CodLiverOil</GRx>
+    <GTreat>WaitToGetBetter</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>SCQQ78IB</seed>
+    <signedBlockID>Q4x8EgoCO3djoOG0cj9Ht9nhc28u26xq8RobmnbF5GntHd8l3BGWvahcsOqteNE8YWSLhMIVzdTxACMk2G3nStKYZUoQH3ADeDzpU8LCK+Mo48HbVWQWoOIhmEFW+/DeBLadu/b9aEA9hgQCGpnLO4heIKx/JGK6DWafbda6jKU=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>f20dc1f7-7b25-4a07-a4c5-01e7d5ef2d5d</ABlockID>
+    <ACreatingProcess>1</ACreatingProcess>
+    <ASHA256String>28892237361dc8aebf0246ce0816988c4786bcb1b6609b62f68fe16f18fe6ab4</ASHA256String>
+    <ASignedSHA256>C14/celPB7DTC96Jz4vJYXlc2trXWT6z3H3j87pEjCk9FVufA5iOsuM0HbPLCnmTQlVtz3SfzkUS4Xcl6EG4R2qYcfcFuAmLw2k2Fr9VCgNgGV41Xaki19QOrOl6uqS1Fs7LZNfwqgJxyfccvTCvLLa7rXf+Ud8wRs5d+KJOrak=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>10</blockNum>
+    <dateCreated> 2018-10-23.22:58:56.1
+</dateCreated>
+    <FDOB>1970.01.01</FDOB>
+    <FFname>Sally</FFname>
+    <FLname>McCutty</FLname>
+    <FSSNum>123-456-999</FSSNum>
+    <GDiag>Migraine</GDiag>
+    <GRx>Almotriptan</GRx>
+    <GTreat>IcePack</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>CLWE4Y9S</seed>
+    <signedBlockID>T9CdNQquAgtzPLdvnVJYAFS2yG8zdTobwV3imlX6PvLnVmTo4y49C8uLk8xak7yxCU9mmwm6+ZcGRzf4BqgiMmjyzdAI8sO25DWrSJNBCRfM/5WQVUFwBymxbxEP8vhEVkR93pnDBkyMxdQ3ef2tSeBJMH4jdZTyooJvBap0z9k=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>386ff64f-55dc-4ac0-a21f-75086e584fc6</ABlockID>
+    <ACreatingProcess>1</ACreatingProcess>
+    <ASHA256String>23add96cb5cdf3f0931e548c118933d8a47a9b89c9812b9936876b2aa14cf23c</ASHA256String>
+    <ASignedSHA256>RlqRKXXHoixpsnSXEmP+ruULU/ZXDG1xn78qA0X23d4cfAbgMeBsTxdkVBW/5so+rYl/+WqckrpiEmmKtB6PHxwzJ1eCfbK698UqWFz3AiZEBWgxJOetMhHGq4CdtJKj5cJWOjxlU0KE9FTaHOtrNz98ENd266HE5Pz507iQpaU=</ASignedSHA256>
+    <AVerificationProcessID>2</AVerificationProcessID>
+    <blockNum>11</blockNum>
+    <dateCreated> 2018-10-23.22:58:56.1
+</dateCreated>
+    <FDOB>1940.11.27</FDOB>
+    <FFname>Bruce</FFname>
+    <FLname>Lee</FLname>
+    <FSSNum>456-789-123</FSSNum>
+    <GDiag>SoreStomach</GDiag>
+    <GRx>Vicodine</GRx>
+    <GTreat>LessCombat</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>YM9BSXVE</seed>
+    <signedBlockID>gBOyPF//MTp+IBBC/Eteljv4fOcQxyViUhdZ51hCaXr4nL3hLfzgWALuIqgYOxHOto9FMg4a3ErtxWolW3FcPSL227BTBq/a34GlBddi02ix8RSuzoboayRUygVISDhKe9KlSjcJU3Yp768NBy5Ai5l4OqZ9tY7ww9XK+Gd1vvY=</signedBlockID>
+</blockRecord>
+
+<blockRecord>
+    <ABlockID>56348966-db6c-48a9-b2f7-eeb246a7ab42</ABlockID>
+    <ACreatingProcess>2</ACreatingProcess>
+    <ASHA256String>2d84b88d966e7f4c664b67f582f42553ad7b520ed7a7f80e7af74b17a0c213ba</ASHA256String>
+    <ASignedSHA256>eQ4Ess8oUo5k1DQy1VilZRQQ41KucryCIgU+bAPooprq0I1l/CvA77tg7Tmk9T5KrShEoryEZBoskia9uK/95YMel3B5ESW8lRWf8W2KMMnu63tRO6qrzm5EhB7iN3FupgPIjh5iONNE9CTrSuVdTH9JBQSFA6ULzYqXYkbS6kc=</ASignedSHA256>
+    <AVerificationProcessID>0</AVerificationProcessID>
+    <blockNum>12</blockNum>
+    <dateCreated> 2018-10-23.22:58:56.2
+</dateCreated>
+    <FDOB>1914.11.25</FDOB>
+    <FFname>Joe</FFname>
+    <FLname>DiMaggio</FLname>
+    <FSSNum>111-22-3333</FSSNum>
+    <GDiag>SoreKnees</GDiag>
+    <GRx>Aspirin</GRx>
+    <GTreat>RestFromSports</GTreat>
+    <previousHash>Previous hash goes here...</previousHash>
+    <seed>3TNMRFRK</seed>
+    <signedBlockID>n70A/B04YWCUMQPla5K35oJuWjDgv49N7BQxvRtrWum4VIMPTDKppwiCVv6bDm8fdB6zHgxkPpsagyd3lbPpXaEIFMHP7evqBJ7CfTUh3jCNMUg8Uc8VoSw5M/C76kvJV/ZnKWcIEOYdEwLRXmc7sNa5H2H8mSZqKsdFNqzSTRs=</signedBlockID>
+</blockRecord>
+</BlockLedger>

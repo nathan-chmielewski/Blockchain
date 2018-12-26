@@ -1,0 +1,678 @@
+PROCESS 0 LOG
+*********************************************
+Nathans-MacBook-Pro:NathanChmielewskiTurnIn nathanchmielewski$ javac Blockchain.java
+Nathans-MacBook-Pro:NathanChmielewskiTurnIn nathanchmielewski$ java Blockchain 0
+Nathan Chmielewski's BlockFramework control-c to quit.
+
+Using processID 0
+
+Starting Public Key Server input thread using 4710
+Starting the Unverified Block Server input thread using 4820
+Starting the blockchain server input thread using 4930
+Waiting for Process 2 to start.
+Multicasting Process ID and Process Public Key.
+Received Process 2's Public Key.
+Received Process 1's Public Key.
+Received Process 0's Public Key.
+Using input file: BlockInput0.txt
+Created unverified block for: John Smith
+Multicasting unverified block data: John Smith
+Created unverified block for: Joe Blow
+Multicasting unverified block data: Joe Blow
+Created unverified block for: Julie Wilson
+Multicasting unverified block data: Julie Wilson
+Created unverified block for: Wayne Blaine
+Multicasting unverified block data: Wayne Blaine
+Starting the Unverified Block Priority Queue Consumer thread.
+
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Helen
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+Writing XML file...
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Rita
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wei
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Writing XML file...
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Abraham
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Julie
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Sally
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+Writing XML file...
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Writing XML file...
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wayne
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Writing XML file...
+Duplicate. Unverified block has been added to the ledger by another process.
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Bruce
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Bruce Lee
+Writing XML file...
+Finished writing file.
+Priority queue empty, waiting for more unverified blocks...
+
+PROCESS 1 LOG
+******************************************************************
+Nathans-MacBook-Pro:NathanChmielewskiTurnIn nathanchmielewski$ java Blockchain 1
+Nathan Chmielewski's BlockFramework control-c to quit.
+
+Using processID 1
+
+Starting Public Key Server input thread using 4711
+Starting the Unverified Block Server input thread using 4821
+Starting the blockchain server input thread using 4931
+Waiting for Process 2 to start.
+Multicasting Process ID and Process Public Key.
+Received Process 2's Public Key.
+Received Process 1's Public Key.
+Received Process 0's Public Key.
+Using input file: BlockInput1.txt
+Created unverified block for: Rita Vita
+Multicasting unverified block data: Rita Vita
+Created unverified block for: Wei Xu
+Multicasting unverified block data: Wei Xu
+Created unverified block for: Sally McCutty
+Multicasting unverified block data: Sally McCutty
+Created unverified block for: Bruce Lee
+Multicasting unverified block data: Bruce Lee
+Starting the Unverified Block Priority Queue Consumer thread.
+
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Helen
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Rita
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wei
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Abraham
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Julie
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Sally
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wayne
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Bruce
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Bruce Lee
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+
+PROCESS 2 LOG
+************************************************************
+Nathans-MacBook-Pro:NathanChmielewskiTurnIn nathanchmielewski$ java Blockchain 2
+Nathan Chmielewski's BlockFramework control-c to quit.
+
+Using processID 2
+
+Starting Public Key Server input thread using 4712
+Starting the Unverified Block Server input thread using 4822
+Starting the blockchain server input thread using 4932
+Multicasting Process ID and Process Public Key.
+Process 2 started.
+Received Process 2's Public Key.
+Received Process 1's Public Key.
+Received Process 0's Public Key.
+Using input file: BlockInput2.txt
+Created unverified block for: Helen Keller
+Multicasting unverified block data: Helen Keller
+Created unverified block for: Abraham Lincoln
+Multicasting unverified block data: Abraham Lincoln
+Created unverified block for: John Kennedy
+Multicasting unverified block data: John Kennedy
+Created unverified block for: Joe DiMaggio
+Multicasting unverified block data: Joe DiMaggio
+Starting the Unverified Block Priority Queue Consumer thread.
+
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Helen
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Rita
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wei
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Abraham
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Julie
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Sally
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Joe
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: John
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Wayne
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+Puzzle solved! Block verified.
+Sending verified blockchain to all processes.
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Priority queue empty, waiting for more unverified blocks...
+Consumer has unmarshalled unverified block: Bruce
+Has the BlockID been verified: true
+
+Working to solve puzzle...
+--NEW BLOCKCHAIN--
+Verified blocks:
+FirstBlock FirstBlock
+Helen Keller
+John Smith
+Joe Blow
+Rita Vita
+Wei Xu
+Abraham Lincoln
+Julie Wilson
+Sally McCutty
+Joe DiMaggio
+John Kennedy
+Wayne Blaine
+Bruce Lee
+Duplicate. Unverified block has been added to the ledger by another process.
+Priority queue empty, waiting for more unverified blocks...
